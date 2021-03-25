@@ -14,6 +14,6 @@ I decided I would learn a new skill.  That skill is Machine Learning.  I absolut
 
 I am working on a perosnal website to house everything I do.  Stay tuned for that.
 
-I wanted to put my new skills to the test.  I am practicing what I learn in a course with the help of Kaggle datasets.  I am preparing for the TensorFlow Developer Certificate and Computer Vision is an aspect of it.  This project felt appropriate since I learned these skills during the lockdowns and I am still learning today.  Being able to wake up and genuinely feel excited to do what I do is a feeling I have never experienced.  That is enough about me, let's get into the code in the code folder 😂.
+I wanted to put my new skills to the test.  I am practicing what I learn in a course with the help of Kaggle datasets.  I am preparing for the TensorFlow Developer Certificate and Computer Vision is an aspect of it.  This project felt appropriate since I learned these skills during the lockdowns and I am still learning today.  That is enough about me, let's get into the code in the code folder 😂.
 
 This is a work in progress so it will be updated over time!
