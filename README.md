@@ -1,4 +1,4 @@
-# The Covid19 Project with Chest X-Rays 
+# The Covid19 Project with Chest X-Rays (view code in master branch - we are in main).
 
 The Covid19 pandenmic has changed the world.  When Covid hit the U.S.A in March of 2020, everything shut down.  
 
